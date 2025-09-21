@@ -16,5 +16,6 @@ apk add wget
 
 wget -O install-sing-box.sh https://raw.githubusercontent.com/Lwh5542/mikr.us-frog-alpine-sing-box/main/install-sing-box.sh && chmod +x install-sing-box.sh && ./install-sing-box.sh
 
+warp建议如下设置
 
 <img width="1252" height="800" alt="9534a27b0272680c487294414a5044d" src="https://github.com/user-attachments/assets/b42bfd5e-b5c9-49c5-bce3-8c115fa7f955" />
