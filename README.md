@@ -1,4 +1,7 @@
 # mikr.us-frog-alpine-sing-box
+
+既然来了就点个star吧 感谢你
+
 自用 mikr.us 青蛙VPS 系统alpine 自动化部署sing-box 套CF的CDN实现双栈 和 WARP的V4出站规则
 
 其他VPS可能不适用或者需要修改，请勿尝试，此脚本仅针对mikr.us frog 青蛙 VPS
